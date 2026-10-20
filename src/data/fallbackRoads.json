@@ -1,0 +1,1905 @@
+[
+  {
+    "id": "delhi-inner-circle-n",
+    "name": "Inner Circle (North Radial Arc)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6332,
+        "lon": 77.216
+      },
+      {
+        "lat": 28.6342,
+        "lon": 77.2173
+      },
+      {
+        "lat": 28.634,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6335,
+        "lon": 77.2205
+      }
+    ]
+  },
+  {
+    "id": "delhi-inner-circle-ne",
+    "name": "Inner Circle (North-East Arc)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6335,
+        "lon": 77.2205
+      },
+      {
+        "lat": 28.6332,
+        "lon": 77.221
+      },
+      {
+        "lat": 28.6328,
+        "lon": 77.2215
+      }
+    ]
+  },
+  {
+    "id": "delhi-inner-circle-e",
+    "name": "Inner Circle (East Arc)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6328,
+        "lon": 77.2215
+      },
+      {
+        "lat": 28.6322,
+        "lon": 77.2212
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2205
+      }
+    ]
+  },
+  {
+    "id": "delhi-inner-circle-s",
+    "name": "Inner Circle (South Radial Arc)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2205
+      },
+      {
+        "lat": 28.631,
+        "lon": 77.2195
+      },
+      {
+        "lat": 28.6305,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.631,
+        "lon": 77.2165
+      }
+    ]
+  },
+  {
+    "id": "delhi-inner-circle-w",
+    "name": "Inner Circle (West Radial Arc)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.631,
+        "lon": 77.2165
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2155
+      },
+      {
+        "lat": 28.632,
+        "lon": 77.215
+      },
+      {
+        "lat": 28.6332,
+        "lon": 77.216
+      }
+    ]
+  },
+  {
+    "id": "delhi-outer-circle-n",
+    "name": "Outer Circle / Connaught Circus (North Arc)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6345,
+        "lon": 77.2145
+      },
+      {
+        "lat": 28.6358,
+        "lon": 77.2165
+      },
+      {
+        "lat": 28.636,
+        "lon": 77.2185
+      }
+    ]
+  },
+  {
+    "id": "delhi-outer-circle-ne",
+    "name": "Connaught Place Outer Circle (Minto Cut)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.636,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6352,
+        "lon": 77.2198
+      },
+      {
+        "lat": 28.6345,
+        "lon": 77.221
+      }
+    ]
+  },
+  {
+    "id": "delhi-outer-circle-e",
+    "name": "Outer Circle / Connaught Circus (Statesman Arc)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6345,
+        "lon": 77.221
+      },
+      {
+        "lat": 28.634,
+        "lon": 77.2225
+      },
+      {
+        "lat": 28.6332,
+        "lon": 77.2235
+      }
+    ]
+  },
+  {
+    "id": "delhi-outer-circle-se",
+    "name": "Outer Circle / Connaught Circus (Barakhamba Arc)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6332,
+        "lon": 77.2235
+      },
+      {
+        "lat": 28.6325,
+        "lon": 77.223
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2225
+      }
+    ]
+  },
+  {
+    "id": "delhi-outer-circle-s",
+    "name": "Outer Circle / Connaught Circus (South Arc)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2225
+      },
+      {
+        "lat": 28.6305,
+        "lon": 77.2205
+      },
+      {
+        "lat": 28.6295,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.63,
+        "lon": 77.2155
+      }
+    ]
+  },
+  {
+    "id": "delhi-outer-circle-w",
+    "name": "Outer Circle / Connaught Circus (West Arc)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.63,
+        "lon": 77.2155
+      },
+      {
+        "lat": 28.6308,
+        "lon": 77.214
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2135
+      },
+      {
+        "lat": 28.6345,
+        "lon": 77.2145
+      }
+    ]
+  },
+  {
+    "id": "delhi-radial-chelmsford",
+    "name": "Radial 1 - Chelmsford Feeder",
+    "highway": "secondary",
+    "lanes": 2,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.634,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.636,
+        "lon": 77.2185
+      }
+    ]
+  },
+  {
+    "id": "delhi-radial-minto",
+    "name": "Radial 2 - Minto Road Radial Feeder",
+    "highway": "secondary",
+    "lanes": 2,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6335,
+        "lon": 77.2205
+      },
+      {
+        "lat": 28.6345,
+        "lon": 77.221
+      }
+    ]
+  },
+  {
+    "id": "delhi-radial-barakhamba",
+    "name": "Radial 3 - Barakhamba Radial Feeder",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6328,
+        "lon": 77.2215
+      },
+      {
+        "lat": 28.6332,
+        "lon": 77.2235
+      }
+    ]
+  },
+  {
+    "id": "delhi-radial-kg",
+    "name": "Radial 4 - Kasturba Gandhi Radial Feeder",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2205
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2225
+      }
+    ]
+  },
+  {
+    "id": "delhi-radial-janpath",
+    "name": "Radial 5 - Janpath Radial Feeder",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6305,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6295,
+        "lon": 77.2185
+      }
+    ]
+  },
+  {
+    "id": "delhi-radial-sansad",
+    "name": "Radial 6 - Sansad Marg Radial Feeder",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.631,
+        "lon": 77.2165
+      },
+      {
+        "lat": 28.63,
+        "lon": 77.2155
+      }
+    ]
+  },
+  {
+    "id": "delhi-radial-bks",
+    "name": "Radial 7 - Baba Kharak Singh Radial Feeder",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.632,
+        "lon": 77.215
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2135
+      }
+    ]
+  },
+  {
+    "id": "delhi-radial-panchkuian",
+    "name": "Radial 8 - Panchkuian Radial Feeder",
+    "highway": "secondary",
+    "lanes": 2,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6332,
+        "lon": 77.216
+      },
+      {
+        "lat": 28.6345,
+        "lon": 77.2145
+      }
+    ]
+  },
+  {
+    "id": "delhi-minto-south",
+    "name": "Minto Road (Connaught Circus to Approach)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6345,
+        "lon": 77.221
+      },
+      {
+        "lat": 28.6355,
+        "lon": 77.2232
+      }
+    ]
+  },
+  {
+    "id": "delhi-minto-road-underpass",
+    "name": "Minto Road Railway Underpass",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6355,
+        "lon": 77.2232
+      },
+      {
+        "lat": 28.6362,
+        "lon": 77.2241
+      },
+      {
+        "lat": 28.6385,
+        "lon": 77.2255
+      },
+      {
+        "lat": 28.6415,
+        "lon": 77.2275
+      }
+    ]
+  },
+  {
+    "id": "delhi-swami-vivekananda",
+    "name": "Swami Vivekananda Marg (Minto North Cut)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6362,
+        "lon": 77.2241
+      },
+      {
+        "lat": 28.639,
+        "lon": 77.2235
+      },
+      {
+        "lat": 28.6415,
+        "lon": 77.222
+      }
+    ]
+  },
+  {
+    "id": "delhi-chelmsford-road",
+    "name": "Chelmsford Road (Paharganj / NDLS Approach)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.636,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6395,
+        "lon": 77.2175
+      },
+      {
+        "lat": 28.643,
+        "lon": 77.216
+      }
+    ]
+  },
+  {
+    "id": "delhi-bhavbhuti-west",
+    "name": "Bhavbhuti Marg West (Ajmeri Gate to NDLS Link)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6415,
+        "lon": 77.222
+      },
+      {
+        "lat": 28.6395,
+        "lon": 77.225
+      },
+      {
+        "lat": 28.6415,
+        "lon": 77.2275
+      }
+    ]
+  },
+  {
+    "id": "delhi-bhavbhuti-east",
+    "name": "Bhavbhuti Marg East (NDLS to School Lane)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6415,
+        "lon": 77.2275
+      },
+      {
+        "lat": 28.638,
+        "lon": 77.2285
+      },
+      {
+        "lat": 28.634,
+        "lon": 77.229
+      }
+    ]
+  },
+  {
+    "id": "delhi-school-lane-underpass",
+    "name": "School Lane / Bhavbhuti Marg Underpass",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.634,
+        "lon": 77.229
+      },
+      {
+        "lat": 28.6325,
+        "lon": 77.229
+      },
+      {
+        "lat": 28.631,
+        "lon": 77.229
+      }
+    ]
+  },
+  {
+    "id": "delhi-tagore-road",
+    "name": "Tagore Road (School Lane to Barakhamba Feeder)",
+    "highway": "tertiary",
+    "lanes": 1,
+    "maxspeed": "30",
+    "geometry": [
+      {
+        "lat": 28.631,
+        "lon": 77.229
+      },
+      {
+        "lat": 28.6288,
+        "lon": 77.2255
+      }
+    ]
+  },
+  {
+    "id": "delhi-ranjit-singh-north",
+    "name": "Ranjit Singh Flyover (North Ramp / DDU Junction)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6358,
+        "lon": 77.2355
+      },
+      {
+        "lat": 28.636,
+        "lon": 77.23
+      },
+      {
+        "lat": 28.6325,
+        "lon": 77.23
+      },
+      {
+        "lat": 28.629,
+        "lon": 77.23
+      }
+    ]
+  },
+  {
+    "id": "delhi-ranjit-singh-south",
+    "name": "Ranjit Singh Flyover (South Connector to Tolstoy)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.629,
+        "lon": 77.23
+      },
+      {
+        "lat": 28.6288,
+        "lon": 77.2255
+      }
+    ]
+  },
+  {
+    "id": "delhi-ddu-minto-link",
+    "name": "DDU Marg (Minto Approach Link)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.6355,
+        "lon": 77.2232
+      },
+      {
+        "lat": 28.636,
+        "lon": 77.2275
+      }
+    ]
+  },
+  {
+    "id": "delhi-ddu-marg",
+    "name": "Deen Dayal Upadhyaya Marg (DDU Marg)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.636,
+        "lon": 77.2275
+      },
+      {
+        "lat": 28.636,
+        "lon": 77.2285
+      },
+      {
+        "lat": 28.636,
+        "lon": 77.23
+      }
+    ]
+  },
+  {
+    "id": "delhi-ddu-marg-mid",
+    "name": "Deen Dayal Upadhyaya Marg Mid (Rouse Avenue Section)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.636,
+        "lon": 77.23
+      },
+      {
+        "lat": 28.6359,
+        "lon": 77.233
+      },
+      {
+        "lat": 28.6358,
+        "lon": 77.2355
+      }
+    ]
+  },
+  {
+    "id": "delhi-ddu-marg-e",
+    "name": "Deen Dayal Upadhyaya Marg East (ITO Approach)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.6358,
+        "lon": 77.2355
+      },
+      {
+        "lat": 28.6362,
+        "lon": 77.2385
+      },
+      {
+        "lat": 28.6365,
+        "lon": 77.241
+      }
+    ]
+  },
+  {
+    "id": "delhi-rouse-avenue",
+    "name": "Rouse Avenue Institutional Link",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6358,
+        "lon": 77.2355
+      },
+      {
+        "lat": 28.632,
+        "lon": 77.236
+      },
+      {
+        "lat": 28.6325,
+        "lon": 77.2412
+      }
+    ]
+  },
+  {
+    "id": "delhi-delhi-gate",
+    "name": "Delhi Gate / Asaf Ali Road Inundation Point",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6405,
+        "lon": 77.24
+      },
+      {
+        "lat": 28.639,
+        "lon": 77.2405
+      },
+      {
+        "lat": 28.6365,
+        "lon": 77.241
+      }
+    ]
+  },
+  {
+    "id": "delhi-jln-marg",
+    "name": "Jawaharlal Nehru Marg (LNJP Medical Approach)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6375,
+        "lon": 77.2385
+      },
+      {
+        "lat": 28.639,
+        "lon": 77.2392
+      },
+      {
+        "lat": 28.6405,
+        "lon": 77.24
+      }
+    ]
+  },
+  {
+    "id": "delhi-asaf-ali-east",
+    "name": "Asaf Ali Road East (Delhi Gate to Medical College)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6405,
+        "lon": 77.24
+      },
+      {
+        "lat": 28.641,
+        "lon": 77.2355
+      },
+      {
+        "lat": 28.6415,
+        "lon": 77.231
+      }
+    ]
+  },
+  {
+    "id": "delhi-asaf-ali-west",
+    "name": "Asaf Ali Road West (Ajmeri Gate to Paharganj)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6415,
+        "lon": 77.231
+      },
+      {
+        "lat": 28.6415,
+        "lon": 77.2265
+      },
+      {
+        "lat": 28.6415,
+        "lon": 77.222
+      }
+    ]
+  },
+  {
+    "id": "delhi-bsz-marg-mid",
+    "name": "Bahadur Shah Zafar Marg (Press Area / ITO North)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6365,
+        "lon": 77.241
+      },
+      {
+        "lat": 28.6345,
+        "lon": 77.2411
+      },
+      {
+        "lat": 28.6325,
+        "lon": 77.2412
+      }
+    ]
+  },
+  {
+    "id": "delhi-ito-bsz-marg",
+    "name": "Bahadur Shah Zafar Marg (BSZ Marg / ITO)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6325,
+        "lon": 77.2412
+      },
+      {
+        "lat": 28.6308,
+        "lon": 77.2413
+      },
+      {
+        "lat": 28.6293,
+        "lon": 77.2415
+      }
+    ]
+  },
+  {
+    "id": "delhi-bsz-marg-s",
+    "name": "Bahadur Shah Zafar Marg South (ITO to Tilak Bridge)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6293,
+        "lon": 77.2415
+      },
+      {
+        "lat": 28.6275,
+        "lon": 77.2414
+      },
+      {
+        "lat": 28.6258,
+        "lon": 77.2415
+      }
+    ]
+  },
+  {
+    "id": "delhi-vikas-marg-ito",
+    "name": "Vikas Marg (ITO Yamuna Bridge Approach)",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "60",
+    "geometry": [
+      {
+        "lat": 28.6293,
+        "lon": 77.2415
+      },
+      {
+        "lat": 28.63,
+        "lon": 77.2425
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2455
+      }
+    ]
+  },
+  {
+    "id": "delhi-w-point-ring-road",
+    "name": "W-Point / Vikas Marg & Ring Road Loop",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "60",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2455
+      },
+      {
+        "lat": 28.6308,
+        "lon": 77.2465
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2465
+      }
+    ]
+  },
+  {
+    "id": "delhi-vikas-marg-bridge",
+    "name": "Vikas Marg (Trans-Yamuna / Laxmi Nagar Corridor)",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "60",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2455
+      },
+      {
+        "lat": 28.6307,
+        "lon": 77.247
+      },
+      {
+        "lat": 28.6305,
+        "lon": 77.25
+      }
+    ]
+  },
+  {
+    "id": "delhi-rajghat-road",
+    "name": "Jawaharlal Nehru Marg / Rajghat Bypass",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.6405,
+        "lon": 77.24
+      },
+      {
+        "lat": 28.6415,
+        "lon": 77.2435
+      },
+      {
+        "lat": 28.642,
+        "lon": 77.246
+      }
+    ]
+  },
+  {
+    "id": "delhi-ferozeshah-copernicus-link",
+    "name": "Copernicus Marg - Ferozeshah Arterial Link",
+    "highway": "secondary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6235,
+        "lon": 77.231
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.233
+      }
+    ]
+  },
+  {
+    "id": "delhi-sikandra-tilak-link",
+    "name": "Sikandra - Supreme Court Link",
+    "highway": "secondary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.625,
+        "lon": 77.2355
+      },
+      {
+        "lat": 28.6225,
+        "lon": 77.2395
+      }
+    ]
+  },
+  {
+    "id": "delhi-ito-ring-bypass",
+    "name": "IP Estate - Ring Road Northbound Link",
+    "highway": "secondary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6365,
+        "lon": 77.241
+      },
+      {
+        "lat": 28.6345,
+        "lon": 77.245
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2465
+      }
+    ]
+  },
+  {
+    "id": "delhi-mandi-copernicus-bypass",
+    "name": "Ferozeshah - Copernicus Bypass Link",
+    "highway": "secondary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6235,
+        "lon": 77.231
+      },
+      {
+        "lat": 28.621,
+        "lon": 77.2315
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.233
+      }
+    ]
+  },
+  {
+    "id": "delhi-hailey-bypass-kg",
+    "name": "Hailey Road South (KG Marg Connector)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2225
+      },
+      {
+        "lat": 28.6275,
+        "lon": 77.223
+      },
+      {
+        "lat": 28.625,
+        "lon": 77.222
+      }
+    ]
+  },
+  {
+    "id": "delhi-indraprastha-marg",
+    "name": "Indraprastha Marg (IP Estate Arterial Bypass)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6293,
+        "lon": 77.2415
+      },
+      {
+        "lat": 28.6275,
+        "lon": 77.244
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2465
+      }
+    ]
+  },
+  {
+    "id": "delhi-ring-road-rajghat",
+    "name": "Mahatma Gandhi Ring Road (Rajghat to IP Estate)",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "60",
+    "geometry": [
+      {
+        "lat": 28.642,
+        "lon": 77.246
+      },
+      {
+        "lat": 28.635,
+        "lon": 77.246
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2465
+      }
+    ]
+  },
+  {
+    "id": "delhi-ring-road-pragati",
+    "name": "Mahatma Gandhi Ring Road (IP Estate to Pragati Maidan)",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "60",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2465
+      },
+      {
+        "lat": 28.6255,
+        "lon": 77.2465
+      },
+      {
+        "lat": 28.622,
+        "lon": 77.247
+      }
+    ]
+  },
+  {
+    "id": "delhi-ring-road-bhairon",
+    "name": "Mahatma Gandhi Ring Road (Pragati Maidan to Bhairon Marg)",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "60",
+    "geometry": [
+      {
+        "lat": 28.622,
+        "lon": 77.247
+      },
+      {
+        "lat": 28.619,
+        "lon": 77.2468
+      },
+      {
+        "lat": 28.616,
+        "lon": 77.2465
+      }
+    ]
+  },
+  {
+    "id": "delhi-tilak-bridge-underpass",
+    "name": "Tilak Bridge Underpass Corridor",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6258,
+        "lon": 77.2415
+      },
+      {
+        "lat": 28.6258,
+        "lon": 77.2384
+      },
+      {
+        "lat": 28.625,
+        "lon": 77.2355
+      }
+    ]
+  },
+  {
+    "id": "delhi-sikandra-road",
+    "name": "Sikandra Road (Tilak Bridge to Mandi House)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.625,
+        "lon": 77.2355
+      },
+      {
+        "lat": 28.6252,
+        "lon": 77.2348
+      },
+      {
+        "lat": 28.6255,
+        "lon": 77.234
+      }
+    ]
+  },
+  {
+    "id": "delhi-mandi-house",
+    "name": "Mandi House & Sikandra Road Circle",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6255,
+        "lon": 77.234
+      },
+      {
+        "lat": 28.6258,
+        "lon": 77.2345
+      },
+      {
+        "lat": 28.6252,
+        "lon": 77.2335
+      },
+      {
+        "lat": 28.6255,
+        "lon": 77.234
+      }
+    ]
+  },
+  {
+    "id": "delhi-bhagwandas-road",
+    "name": "Bhagwan Das Road (Mandi House to Supreme Court)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6255,
+        "lon": 77.234
+      },
+      {
+        "lat": 28.624,
+        "lon": 77.237
+      },
+      {
+        "lat": 28.6225,
+        "lon": 77.2395
+      }
+    ]
+  },
+  {
+    "id": "delhi-copernicus-marg",
+    "name": "Copernicus Marg (Mandi House to C-Hexagon)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.6255,
+        "lon": 77.234
+      },
+      {
+        "lat": 28.6215,
+        "lon": 77.2335
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.233
+      }
+    ]
+  },
+  {
+    "id": "delhi-barakhamba",
+    "name": "Barakhamba Road (CBD Radial Arterial)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6332,
+        "lon": 77.2235
+      },
+      {
+        "lat": 28.631,
+        "lon": 77.2245
+      },
+      {
+        "lat": 28.6288,
+        "lon": 77.2255
+      }
+    ]
+  },
+  {
+    "id": "delhi-barakhamba-tolstoy",
+    "name": "Barakhamba Road & Tolstoy Marg Junction",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.6288,
+        "lon": 77.2255
+      },
+      {
+        "lat": 28.627,
+        "lon": 77.2295
+      },
+      {
+        "lat": 28.6255,
+        "lon": 77.234
+      }
+    ]
+  },
+  {
+    "id": "delhi-tolstoy-barakhamba-east",
+    "name": "Tolstoy Marg East (Barakhamba to Sikandra)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.6288,
+        "lon": 77.2255
+      },
+      {
+        "lat": 28.627,
+        "lon": 77.231
+      },
+      {
+        "lat": 28.625,
+        "lon": 77.2355
+      }
+    ]
+  },
+  {
+    "id": "delhi-tolstoy-kg",
+    "name": "Tolstoy Marg Central (KG Marg to Barakhamba)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.625,
+        "lon": 77.222
+      },
+      {
+        "lat": 28.6268,
+        "lon": 77.2245
+      },
+      {
+        "lat": 28.6288,
+        "lon": 77.2255
+      }
+    ]
+  },
+  {
+    "id": "delhi-tolstoy-janpath",
+    "name": "Tolstoy Marg (Janpath to KG Marg)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.624,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6245,
+        "lon": 77.221
+      },
+      {
+        "lat": 28.625,
+        "lon": 77.222
+      }
+    ]
+  },
+  {
+    "id": "delhi-tolstoy-marg",
+    "name": "Tolstoy Marg (East-West Cross Connector)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.6255,
+        "lon": 77.2105
+      },
+      {
+        "lat": 28.6248,
+        "lon": 77.2145
+      },
+      {
+        "lat": 28.624,
+        "lon": 77.2185
+      }
+    ]
+  },
+  {
+    "id": "delhi-hailey-road",
+    "name": "Hailey Road Arterial Bypass",
+    "highway": "tertiary",
+    "lanes": 1,
+    "maxspeed": "30",
+    "geometry": [
+      {
+        "lat": 28.6288,
+        "lon": 77.2255
+      },
+      {
+        "lat": 28.6295,
+        "lon": 77.224
+      },
+      {
+        "lat": 28.6315,
+        "lon": 77.2225
+      }
+    ]
+  },
+  {
+    "id": "delhi-kasturba-gandhi",
+    "name": "Kasturba Gandhi Marg (KG Marg)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2225
+      },
+      {
+        "lat": 28.628,
+        "lon": 77.223
+      },
+      {
+        "lat": 28.625,
+        "lon": 77.222
+      }
+    ]
+  },
+  {
+    "id": "delhi-kg-marg-mid",
+    "name": "Kasturba Gandhi Marg Mid (Tolstoy to Ferozeshah)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.625,
+        "lon": 77.222
+      },
+      {
+        "lat": 28.623,
+        "lon": 77.2242
+      },
+      {
+        "lat": 28.621,
+        "lon": 77.222
+      }
+    ]
+  },
+  {
+    "id": "delhi-kg-marg-south",
+    "name": "Kasturba Gandhi Marg South (C-Hexagon Link)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.621,
+        "lon": 77.222
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.2275
+      },
+      {
+        "lat": 28.615,
+        "lon": 77.23
+      }
+    ]
+  },
+  {
+    "id": "delhi-ferozeshah-kg",
+    "name": "Ferozeshah Road (Windsor Place to KG Marg)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.618,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6195,
+        "lon": 77.2218
+      },
+      {
+        "lat": 28.621,
+        "lon": 77.222
+      }
+    ]
+  },
+  {
+    "id": "delhi-ferozeshah-mandi",
+    "name": "Ferozeshah Road (KG Marg to Mandi House)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.621,
+        "lon": 77.222
+      },
+      {
+        "lat": 28.6225,
+        "lon": 77.2295
+      },
+      {
+        "lat": 28.6255,
+        "lon": 77.234
+      }
+    ]
+  },
+  {
+    "id": "delhi-janpath",
+    "name": "Janpath Road",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6295,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6268,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.624,
+        "lon": 77.2185
+      }
+    ]
+  },
+  {
+    "id": "delhi-janpath-mid",
+    "name": "Janpath Mid (Tolstoy Marg to Windsor Place)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.624,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.621,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.2185
+      }
+    ]
+  },
+  {
+    "id": "delhi-windsor-place-circle",
+    "name": "Windsor Place Roundabout Junction",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.618,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6185,
+        "lon": 77.2188
+      },
+      {
+        "lat": 28.6178,
+        "lon": 77.218
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.2185
+      }
+    ]
+  },
+  {
+    "id": "delhi-ashoka-road-w",
+    "name": "Ashoka Road West (Gol Dak Khana to Patel Chowk)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6255,
+        "lon": 77.2065
+      },
+      {
+        "lat": 28.6238,
+        "lon": 77.21
+      },
+      {
+        "lat": 28.622,
+        "lon": 77.2135
+      }
+    ]
+  },
+  {
+    "id": "delhi-ashoka-road-mid",
+    "name": "Ashoka Road Mid (Patel Chowk to Windsor Place)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.622,
+        "lon": 77.2135
+      },
+      {
+        "lat": 28.62,
+        "lon": 77.216
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.2185
+      }
+    ]
+  },
+  {
+    "id": "delhi-ashoka-road-e",
+    "name": "Ashoka Road East (Windsor Place to C-Hexagon)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.618,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.6165,
+        "lon": 77.2242
+      },
+      {
+        "lat": 28.615,
+        "lon": 77.23
+      }
+    ]
+  },
+  {
+    "id": "delhi-raisina-road",
+    "name": "Raisina Road (Windsor Place to Parliament House)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.618,
+        "lon": 77.2185
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.2142
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.21
+      }
+    ]
+  },
+  {
+    "id": "delhi-sansad-marg-n",
+    "name": "Sansad Marg (Parliament Street North)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.63,
+        "lon": 77.2155
+      },
+      {
+        "lat": 28.626,
+        "lon": 77.2145
+      },
+      {
+        "lat": 28.622,
+        "lon": 77.2135
+      }
+    ]
+  },
+  {
+    "id": "delhi-sansad-marg-s",
+    "name": "Sansad Marg South (Patel Chowk to Parliament)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.622,
+        "lon": 77.2135
+      },
+      {
+        "lat": 28.62,
+        "lon": 77.2118
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.21
+      }
+    ]
+  },
+  {
+    "id": "delhi-bks-marg-n",
+    "name": "Baba Kharak Singh Marg North (CP to Shivaji Stadium)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2135
+      },
+      {
+        "lat": 28.6308,
+        "lon": 77.2122
+      },
+      {
+        "lat": 28.63,
+        "lon": 77.211
+      }
+    ]
+  },
+  {
+    "id": "delhi-bks-marg-s",
+    "name": "Baba Kharak Singh Marg South (Shivaji Stadium to RML Hospital)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.63,
+        "lon": 77.211
+      },
+      {
+        "lat": 28.6272,
+        "lon": 77.208
+      },
+      {
+        "lat": 28.6255,
+        "lon": 77.2065
+      },
+      {
+        "lat": 28.6245,
+        "lon": 77.205
+      }
+    ]
+  },
+  {
+    "id": "delhi-panchkuian-road",
+    "name": "Panchkuian Marg (Connaught Circus to Ramakrishna Ashram)",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.6345,
+        "lon": 77.2145
+      },
+      {
+        "lat": 28.6362,
+        "lon": 77.2108
+      },
+      {
+        "lat": 28.638,
+        "lon": 77.207
+      }
+    ]
+  },
+  {
+    "id": "delhi-shaheed-bhagat-singh",
+    "name": "Shaheed Bhagat Singh Marg (Lady Hardinge Approach)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "35",
+    "geometry": [
+      {
+        "lat": 28.6315,
+        "lon": 77.2135
+      },
+      {
+        "lat": 28.632,
+        "lon": 77.212
+      },
+      {
+        "lat": 28.63,
+        "lon": 77.211
+      }
+    ]
+  },
+  {
+    "id": "delhi-tilak-marg-n",
+    "name": "Tilak Marg North (BSZ Marg to Supreme Court)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6258,
+        "lon": 77.2415
+      },
+      {
+        "lat": 28.6245,
+        "lon": 77.2418
+      },
+      {
+        "lat": 28.625,
+        "lon": 77.242
+      }
+    ]
+  },
+  {
+    "id": "delhi-mathura-road-n",
+    "name": "Mathura Road (ITO to Supreme Court)",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "55",
+    "geometry": [
+      {
+        "lat": 28.625,
+        "lon": 77.242
+      },
+      {
+        "lat": 28.6238,
+        "lon": 77.2415
+      },
+      {
+        "lat": 28.6225,
+        "lon": 77.2395
+      },
+      {
+        "lat": 28.6225,
+        "lon": 77.241
+      }
+    ]
+  },
+  {
+    "id": "delhi-mathura-road-mid",
+    "name": "Mathura Road Mid (Supreme Court to Pragati Maidan)",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "55",
+    "geometry": [
+      {
+        "lat": 28.6225,
+        "lon": 77.241
+      },
+      {
+        "lat": 28.6202,
+        "lon": 77.2415
+      },
+      {
+        "lat": 28.618,
+        "lon": 77.242
+      }
+    ]
+  },
+  {
+    "id": "delhi-mathura-road-s",
+    "name": "Mathura Road South (Pragati Maidan to Bhairon Marg)",
+    "highway": "trunk",
+    "lanes": 3,
+    "maxspeed": "55",
+    "geometry": [
+      {
+        "lat": 28.618,
+        "lon": 77.242
+      },
+      {
+        "lat": 28.617,
+        "lon": 77.2418
+      },
+      {
+        "lat": 28.616,
+        "lon": 77.242
+      }
+    ]
+  },
+  {
+    "id": "delhi-bhairon-marg",
+    "name": "Bhairon Marg Railway Underpass",
+    "highway": "primary",
+    "lanes": 2,
+    "maxspeed": "45",
+    "geometry": [
+      {
+        "lat": 28.616,
+        "lon": 77.242
+      },
+      {
+        "lat": 28.616,
+        "lon": 77.2442
+      },
+      {
+        "lat": 28.616,
+        "lon": 77.2465
+      }
+    ]
+  },
+  {
+    "id": "delhi-purana-qila-road",
+    "name": "Purana Qila Road (Mathura Road to C-Hexagon)",
+    "highway": "secondary",
+    "lanes": 1,
+    "maxspeed": "40",
+    "geometry": [
+      {
+        "lat": 28.618,
+        "lon": 77.242
+      },
+      {
+        "lat": 28.6165,
+        "lon": 77.236
+      },
+      {
+        "lat": 28.615,
+        "lon": 77.2395
+      },
+      {
+        "lat": 28.615,
+        "lon": 77.23
+      }
+    ]
+  },
+  {
+    "id": "delhi-tilak-marg-s",
+    "name": "Tilak Marg South (Supreme Court to C-Hexagon)",
+    "highway": "primary",
+    "lanes": 3,
+    "maxspeed": "50",
+    "geometry": [
+      {
+        "lat": 28.6225,
+        "lon": 77.2395
+      },
+      {
+        "lat": 28.62,
+        "lon": 77.2365
+      },
+      {
+        "lat": 28.615,
+        "lon": 77.23
+      }
+    ]
+  }
+]

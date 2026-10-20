@@ -1,0 +1,6 @@
+{
+  "name": "RoadRisk Delhi",
+  "description": "Pre-monsoon flood what-if & cascade engine for resilient roads and hospital access in Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

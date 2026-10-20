@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+:root {
+  /* FRAME (dark, anchors the screen) */
+  --bg-frame: #0B2540;
+  --text-frame: #E6EEF7;
+  --text-frame-muted: #9FB3C8;
+  --sidebar-item-hover: #12355A;
+  --sidebar-item-active: #0E7490;
+  --sidebar-item-bar: #67E8F9;
+  --sidebar-section-label: #7DD3FC;
+  --header-btn-border: #2B4A6B;
+  --cta-amber: #F59E0B;
+  --cta-amber-text: #1F2937;
+
+  /* WORKSPACE (light, readable soft blue-grey) */
+  --bg-page: #EAF1F8;
+  --bg-detail: #EAF1F8;
+  --bg-card: #FFFFFF;
+  --border-card: #CBD8E6;
+  --text-heading: #0B2540;
+  --text-body: #1E293B;
+  --text-secondary: #475569;
+  --btn-primary: #0369A1;
+  --btn-primary-hover: #075985;
+  --card-selected-bg: #E0F2FE;
+  --card-selected-border: #0369A1;
+  --input-border: #94A9BF;
+  --input-focus: #0369A1;
+
+  /* SEVERITY (paired with light tinted background) */
+  --safe-text: #166534;
+  --safe-bg: #DCFCE7;
+  --safe-border: #BBF7D0;
+
+  --warning-text: #92400E;
+  --warning-bg: #FEF3C7;
+  --warning-border: #FDE68A;
+
+  --critical-text: #991B1B;
+  --critical-bg: #FEE2E2;
+  --critical-border: #FECACA;
+
+  --dry-text: #475569;
+  --dry-bg: #E2E8F0;
+  --dry-border: #CBD5E1;
+
+  --shadow-soft: 0 1px 3px 0 rgba(11, 37, 64, 0.06), 0 1px 2px -1px rgba(11, 37, 64, 0.04);
+  --shadow-card: 0 4px 6px -1px rgba(11, 37, 64, 0.07), 0 2px 4px -2px rgba(11, 37, 64, 0.04);
+  --shadow-modal: 0 20px 25px -5px rgba(11, 37, 64, 0.15), 0 8px 10px -6px rgba(11, 37, 64, 0.08);
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--bg-page);
+  color: var(--text-body);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.leaflet-container {
+  width: 100% !important;
+  height: 100% !important;
+  font-family: 'Inter', system-ui, sans-serif !important;
+}
+
+/* Custom scrollbars for detail panels and cards */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD8E6;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A9BF;
+}

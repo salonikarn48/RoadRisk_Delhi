@@ -1,0 +1,119 @@
+{
+  "mode": "cached",
+  "fetchedAt": "2026-10-19T14:15:00.000Z",
+  "matches": [
+    {
+      "hotspotName": "Minto Bridge Railway Underpass",
+      "sources": [
+        {
+          "position": 1,
+          "site_name": "timesofindia.indiatimes.com",
+          "title": "Delhi rains: Traffic halted at Minto Bridge underpass after waterlogging",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/minto-bridge-waterlogged-traffic-diverted",
+          "date": "Jul 15, 2024"
+        },
+        {
+          "position": 2,
+          "site_name": "hindustantimes.com",
+          "title": "Delhi Traffic Police Advisory: RUB closures and diverted routes in Central Delhi",
+          "url": "https://hindustantimes.com/cities/delhi-news/delhi-traffic-police-monsoon-advisory-rub",
+          "date": "Jul 15, 2024"
+        }
+      ],
+      "snippet": "Traffic movement closed at Minto Bridge Railway Underpass due to severe water logging. Commuters advised to avoid Swami Vivekananda Marg Cut and take alternate routes via Barakhamba Road and Deen Dayal Upadhyaya Marg."
+    },
+    {
+      "hotspotName": "ITO Junction / Vikas Marg Corridor",
+      "sources": [
+        {
+          "position": 3,
+          "site_name": "ndtv.com",
+          "title": "Waterlogging chokes ITO crossing, heavy jam on Vikas Marg towards Laxmi Nagar",
+          "url": "https://ndtv.com/delhi-news/ito-waterlogging-traffic-jam-vikas-marg",
+          "date": "Aug 11, 2024"
+        }
+      ],
+      "snippet": "Severe water accumulation at ITO Junction and Vikas Marg Inundation Cut has slowed vehicular movement to a crawl. Heavy water stagnation reported near Income Tax Office Chowk."
+    },
+    {
+      "hotspotName": "Tilak Bridge Railway Underpass",
+      "sources": [
+        {
+          "position": 4,
+          "site_name": "indianexpress.com",
+          "title": "Tilak Bridge underpass submerged; Delhi traffic police divert vehicles via Mandi House",
+          "url": "https://indianexpress.com/article/cities/delhi/tilak-bridge-submerged-traffic-diversion",
+          "date": "Aug 11, 2024"
+        }
+      ],
+      "snippet": "Tilak Bridge RUB inundated under stormwater runoff; traffic personnel deploying emergency de-watering pumps while traffic has been redirected via Sikandra Road and Appu Ghar Railway Cut."
+    },
+    {
+      "hotspotName": "Delhi Gate / Asaf Ali Road Inundation Point",
+      "sources": [
+        {
+          "position": 5,
+          "site_name": "thehindu.com",
+          "title": "MCD flags vulnerable waterlogging prone spots ahead of monsoon",
+          "url": "https://thehindu.com/news/cities/Delhi/mcd-flags-waterlogging-prone-spots-ahead-of-monsoon",
+          "date": "Oct 15, 2026"
+        }
+      ],
+      "snippet": "MCD flags Delhi Gate and Asaf Ali Road underpass approach as vulnerable waterlogging prone spots ahead of monsoon, preparing SOPs and contingency pump deployment plan."
+    },
+    {
+      "hotspotName": "Dwarka Underpass",
+      "sources": [
+        {
+          "position": 6,
+          "site_name": "indiatoday.in",
+          "title": "Dwarka Expressway underpass waterlogged, traffic diverted",
+          "url": "https://indiatoday.in/cities/delhi/story/dwarka-underpass-waterlogged-traffic-diverted",
+          "date": "Oct 19, 2026"
+        }
+      ],
+      "snippet": "Dwarka underpass submerged under water after heavy showers; commuters stranded and traffic diverted towards airport road."
+    },
+    {
+      "hotspotName": "Okhla Underpass",
+      "sources": [
+        {
+          "position": 7,
+          "site_name": "ndtv.com",
+          "title": "Waterlogging at Okhla underpass halts traffic in industrial area",
+          "url": "https://ndtv.com/delhi-news/okhla-underpass-waterlogged-traffic-halted",
+          "date": "Jul 22, 2024"
+        }
+      ],
+      "snippet": "Heavy water stagnation at Okhla underpass has traffic halted with submerged trucks stranded near phase 1."
+    }
+  ],
+  "matchedRoads": [
+    {
+      "roadName": "Barakhamba Road",
+      "sources": [
+        {
+          "position": 1,
+          "site_name": "timesofindia.indiatimes.com",
+          "title": "Delhi rains: Traffic halted at Minto Bridge underpass after waterlogging",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/minto-bridge-waterlogged-traffic-diverted",
+          "date": "Jul 15, 2024"
+        }
+      ],
+      "snippet": "Traffic movement closed at Minto Bridge Railway Underpass due to severe water logging. Commuters advised to avoid Swami Vivekananda Marg Cut and take alternate routes via Barakhamba Road and Deen Dayal Upadhyaya Marg."
+    },
+    {
+      "roadName": "Vikas Marg",
+      "sources": [
+        {
+          "position": 3,
+          "site_name": "ndtv.com",
+          "title": "Waterlogging chokes ITO crossing, heavy jam on Vikas Marg towards Laxmi Nagar",
+          "url": "https://ndtv.com/delhi-news/ito-waterlogging-traffic-jam-vikas-marg",
+          "date": "Aug 11, 2024"
+        }
+      ],
+      "snippet": "Severe water accumulation at ITO Junction and Vikas Marg Inundation Cut has slowed vehicular movement to a crawl."
+    }
+  ]
+}
